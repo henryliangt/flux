@@ -1,0 +1,7 @@
+.large/
+*.h5
+localinfo.json
+local.json
+*.pth
+*private.json
+.idea/*
